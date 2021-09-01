@@ -7,8 +7,7 @@ Live Demo: [Link](https://heychat-1798e.web.app)
 ```
 npm install
 ```
-
-# Creating firebase db
+## Set Up firebase
 1.- Go to firebase console
 2.- Click on create new project
 3.- Click next on all the following steps
@@ -29,8 +28,7 @@ firebase.initializeApp({
 })
 ```
 
-
-### Compiles for development
+### Compiles in dev mode
 
 ```
 npm run serve
@@ -41,3 +39,4 @@ npm run serve
 ```
 npm run build
 ```
+
