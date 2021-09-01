@@ -5,17 +5,17 @@ Live Demo: [Link](https://vue-chat-app-27d21.web.app/)
 ## Project setup
 
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 
 ```
-yarn build
+npm run build
 ```
