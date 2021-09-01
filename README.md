@@ -8,7 +8,7 @@ Live Demo: [Link](https://heychat-1798e.web.app)
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles 
 
 ```
 npm run serve
