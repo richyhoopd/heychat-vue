@@ -1,6 +1,6 @@
 # Vue 3 - Realtime Chat App
 
-Live Demo: [Link]()
+Live Demo: [Link](https://heychat-1798e.web.app)
 
 ## Project setup
 
@@ -8,13 +8,13 @@ Live Demo: [Link]()
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles in dev mode
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles for production
 
 ```
 npm run build
