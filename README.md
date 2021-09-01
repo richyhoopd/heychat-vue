@@ -1,6 +1,6 @@
 # Vue 3 - Realtime Chat App
 
-Live Demo: [Link](https://vue-chat-app-27d21.web.app/)
+Live Demo: [Link]()
 
 ## Project setup
 
